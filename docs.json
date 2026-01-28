@@ -3,33 +3,39 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#2949CE",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
       {
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Get started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "intro/index",
+              "intro/hello",
+              "intro/auth",
+              "intro/testing",
+              "intro/release-notes" 
             ]
           },
           {
-            "group": "Customization",
+            "group": "Concepts",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "concepts/auth-guide",
+              "concepts/emails",
+              "concepts/errors",
+              "concepts/pricing",
+              "concepts/terms",
+              "concepts/webhooks"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Online transactions",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -38,7 +44,7 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Face-to-face transactions",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
@@ -59,15 +65,12 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
   },
   "navbar": {
     "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
+      
     ],
     "primary": {
       "type": "button",

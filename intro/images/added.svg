@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="80"
+   height="24"
+   style="vertical-align: middle;"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="added.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.6795013"
+     inkscape:cx="15.381068"
+     inkscape:cy="14.57457"
+     inkscape:window-width="1472"
+     inkscape:window-height="806"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <rect
+     rx="12"
+     ry="12"
+     width="80"
+     height="24"
+     fill="#2ecc71"
+     id="rect1"
+     style="fill:#29ce5c;fill-opacity:1" />
+  <text
+     x="40"
+     y="16"
+     font-size="12"
+     font-family="sans-serif"
+     fill="white"
+     text-anchor="middle"
+     id="text1">Added</text>
+</svg>
