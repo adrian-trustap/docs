@@ -66,22 +66,17 @@
             ]
           }
         ]
+      },
+      {
+      "tab": "Trustap reference",
+      "groups": [
+              {
+            "group": "Trustap Reference",
+            "openapi": "api-reference/trustap-openapi-3.0.yaml"
+          }
+        ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
