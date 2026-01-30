@@ -37,18 +37,13 @@
           {
             "group": "Online transactions",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+             
             ]
           },
           {
             "group": "Face-to-face transactions",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              
             ]
           }
         ]
